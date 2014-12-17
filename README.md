@@ -5,4 +5,4 @@ Henry l'hexapus est, comme son nom l'indique, un hexapus robotique exécutant un
 
 Lien de l'album photo : http://imgur.com/a/hQOlN
 
-Lien du video youtube : <iframe width="560" height="315" src="//www.youtube.com/embed/oCGS1C8m1Yg" frameborder="0" allowfullscreen></iframe>
+Lien du video youtube : www.youtube.com/embed/oCGS1C8m1Yg
