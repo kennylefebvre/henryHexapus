@@ -57,7 +57,7 @@ Le circuit est à faire comme le schéma ci-dessous l'indique pour chacun des se
 <img src="http://wiki.t-o-f.info/uploads/Arduino/servo_bb.png" title="Henry Hexapus" />
 <img src="http://wiki.t-o-f.info/uploads/Arduino/servo_sh.png" title="Henry Hexapus" />
 <br>
-Source des circuits : <a href="http://wiki.t-o-f.info/EDM4600/EDM4600">http://wiki.t-o-f.info/EDM4600/EDM4600</a>
+Source des schémas : <a href="http://wiki.t-o-f.info/EDM4600/EDM4600">http://wiki.t-o-f.info/EDM4600/EDM4600</a>
 
 
 
@@ -72,7 +72,7 @@ Il faut aussi faire un circuit pour le bouton qui servira à redémarrer Henry. 
 <img src="http://wiki.t-o-f.info/uploads/Arduino/switch_internal_pull-up_bb.png" title="Henry Hexapus" />
 <img src="http://wiki.t-o-f.info/uploads/Arduino/switch_internal_pull-up_schem.png" title="Henry Hexapus" />
 <br>
-Source des circuits : <a href="http://wiki.t-o-f.info/EDM4600/EDM4600">http://wiki.t-o-f.info/EDM4600/EDM4600</a>
+Source des schémas : <a href="http://wiki.t-o-f.info/EDM4600/EDM4600">http://wiki.t-o-f.info/EDM4600/EDM4600</a>
 
 =============
 
