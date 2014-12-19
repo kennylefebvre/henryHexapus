@@ -14,7 +14,7 @@ Henry l'hexapus est, comme son nom l'indique, une pieuvre hexapode nommée en l'
 
 Ci-dessous sera expliqué tout le processus pour créer physiquement l'hexapode. Nous vous fournissons également notre code qui reproduit la chorégraphie exécutée dans la vidéo Youtube. Si vous utilisez notre documentation, n'oubliez pas de nous citer!
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/oCGS1C8m1Yg" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/oCGS1C8m1Yg" frameborder="0"></iframe>
 
 ===========
 
