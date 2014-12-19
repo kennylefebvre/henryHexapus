@@ -5,6 +5,9 @@ Pieuvre à six tentacules qui sont contrôlées par des servomoteurs afin d'exé
 
 Réalisée par Dominique Charbonneau et Kenny Lefebvre
 
+<img src="http://i.imgur.com/CIgiBkb.jpg" title="Henry Hexapus" />
+<img src="http://i.imgur.com/anDmYbi.jpg" title="Henry Hexapus" />
+
 ============
 
 Henry l'hexapus est, comme son nom l'indique, une pieuvre hexapode nommée en l'honneur d'Henry, le seul mollusque de ce type examiné par la communauté scientifique (<a href="http://en.wikipedia.org/wiki/Henry_the_Hexapus">http://en.wikipedia.org/wiki/Henry_the_Hexapus</a>). Henry a des tentacules robotiques exécutant une chorégraphie électronique.  Le tout fonctionne grâce à un arduino et des servomoteurs.
