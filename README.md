@@ -34,10 +34,10 @@ Lien du video youtube : <a href="https://www.youtube.com/watch?v=oCGS1C8m1Yg&fea
 Autres
 - Fer à souder et étain
 - Câbles (idéalement identifiés de différentes couleurs)
-- 2 chaînes à vélo assez longue (120 pieds) et un outil pour enlever les mailles de vélo
+- 2 chaînes à vélo assez longue (126 mailles chacune pour les nôtres) et un outil pour enlever les mailles de vélo
 - Fil de fer (beaucoup!)
 - Quelque chose pour faire la forme de la pieuvre (nous utilisons une sorte d'abat-jour trouvé dans un magasin de seconde main à 3$)
-- Décoration
+- Décoration steam-punk (googles, engrenages, etc.)
 
 =========
 
