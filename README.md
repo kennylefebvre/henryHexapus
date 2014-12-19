@@ -24,10 +24,12 @@ Lien du video youtube : <a href="https://www.youtube.com/watch?v=oCGS1C8m1Yg&fea
 - 1 Arduino Leonardo
 - 1 câble micro-usb
 - 6 servomoteurs avec leurs têtes en croix
+  Note : Nous avions deux modèles : SG-5010 et HS-322HD, mais avoir un seul modèle pour les six est idéal)
 - 6 condensateurs 100 microF
 - 1 alimentation stabilisée (ici une alimentation d'ordinateur qui peut fournir jusqu'à 20A à 5V)
 - Une plaque pour souder le circuit (ici la plaque perma-proto de Adafruit)
 - Une plaque de prototypage
+- Un bouton standard
 
 Autres
 - Fer à souder et étain
