@@ -37,7 +37,7 @@ Autres
 - 2 chaînes à vélo assez longue (126 mailles chacune pour les nôtres) et un outil pour enlever les mailles de vélo
 - Fil de fer (beaucoup!)
 - Quelque chose pour faire la forme de la pieuvre (nous utilisons une sorte d'abat-jour trouvé dans un magasin de seconde main à 3$)
-- Décoration steam-punk (googles, engrenages, etc.)
+- Décoration steam-punk (googgles, engrenages, etc.)
 
 =========
 
