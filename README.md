@@ -54,6 +54,12 @@ Une fois les 6 chaînes préparées, il suffit de les enrouler de fil de fer de 
 
 Le circuit est à faire comme le schéma ci-dessous l'indique pour chacun des servomoteurs. Il est conseillé de prototyper le circuit avant de le souder pour s'assurer que tout fonctionne comme prévu et qu'il n'y a aucune pièce défectueuse.
 
+<img src="http://wiki.t-o-f.info/uploads/Arduino/servo_bb.png" title="Henry Hexapus" />
+<img src="http://wiki.t-o-f.info/uploads/Arduino/servo_sh.png" title="Henry Hexapus" />
+Source des circuits : <a href="http://wiki.t-o-f.info/EDM4600/EDM4600">http://wiki.t-o-f.info/EDM4600/EDM4600</a>
+
+
+
 Note en ce qui concerne l'alimentation stabilisée : pour la faire fonctionner, vous devez mettre une résistance (la plus petite valeur suffit) entre le fil vert et le fil de ground (noir) suivant, dans la plus grosse couette de fils. Ensuite, par convention, tous les fils noirs des autres couettes sont des fils de ground, les fils rouges fournissent du 5v, les jaunes du 3v et les oranges du 12v. Il est tout de même recommandé de vérifier la data sheet de votre alimentation pour vous assurer qu'elle respecte cette convention.
 <img src="http://i.imgur.com/cWe4i9I.jpg" title="Henry Hexapus" />
 <img src="http://i.imgur.com/idU2NcU.jpg" title="Henry Hexapus" />
@@ -61,6 +67,11 @@ Note en ce qui concerne l'alimentation stabilisée : pour la faire fonctionner, 
 Lorsque le circuit est complété et alimenté, envoyez le code de test "AnalogReadSerial" pour voir les points maximum et minimums de vos servos. Assurez-vous de tous les placer au minimum afin de pouvoir attacher les chaînes sur la bonne partie de la croix.
 
 Il faut aussi faire un circuit pour le bouton qui servira à redémarrer Henry. Il suffit de le faire comme le schéma ci-dessous. Le code du bouton est inclus dans le code Arduino que l'on vous fournit.
+
+<img src="http://wiki.t-o-f.info/uploads/Arduino/switch_internal_pull-up_bb.png" title="Henry Hexapus" />
+<img src="http://wiki.t-o-f.info/uploads/Arduino/switch_internal_pull-up_schem.png" title="Henry Hexapus" />
+
+Source des circuits : <a href="http://wiki.t-o-f.info/EDM4600/EDM4600">http://wiki.t-o-f.info/EDM4600/EDM4600</a>
 
 =============
 
