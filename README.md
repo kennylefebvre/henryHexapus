@@ -1,4 +1,4 @@
-<b>Henry l'hexapus</b>
+<b>Henry Hexapus</b>
 ============
 
 Pieuvre à six tentacules qui sont contrôlées par des servomoteurs afin d'exécuter une chorégraphique programmée dans Arduino.
